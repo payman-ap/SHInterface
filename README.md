@@ -15,4 +15,10 @@ The peripherals are:
 7 - Ethernet TCP/IP Connection  
 8 - USB Interface  
 
+### Simulink Layout
+![Simulink Layout](./pics/SimulinkLayout.png)
+
+### Board
+<img src="./pics/Board.jpg" width="800px">
+
 
