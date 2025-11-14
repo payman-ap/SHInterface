@@ -1,0 +1,50 @@
+*** Creating Trace Output File '.\obj\SHInterface.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\shinterface.o"'
+### List of Objects: adding '".\obj\emac_lpc17xx.o"'
+### List of Objects: adding '".\obj\spi_lpc17xx.o"'
+### List of Objects: adding '".\obj\startup_lpc17xx.o"'
+### List of Objects: adding '".\obj\system_lpc17xx.o"'
+### List of Objects: adding '".\obj\core_cm3.o"'
+### List of Objects: adding '".\obj\lpc17xx_adc.o"'
+### List of Objects: adding '".\obj\lpc17xx_clkpwr.o"'
+### List of Objects: adding '".\obj\lpc17xx_exti.o"'
+### List of Objects: adding '".\obj\lpc17xx_gpio.o"'
+### List of Objects: adding '".\obj\lpc17xx_i2c.o"'
+### List of Objects: adding '".\obj\lpc17xx_libcfg_default.o"'
+### List of Objects: adding '".\obj\lpc17xx_nvic.o"'
+### List of Objects: adding '".\obj\lpc17xx_pinsel.o"'
+### List of Objects: adding '".\obj\lpc17xx_pwm.o"'
+### List of Objects: adding '".\obj\lpc17xx_spi.o"'
+### List of Objects: adding '".\obj\lpc17xx_systick.o"'
+### List of Objects: adding '".\obj\lpc17xx_timer.o"'
+### List of Objects: adding '".\obj\lpc17xx_uart.o"'
+### List of Objects: adding '".\obj\adc-landtiger.o"'
+### List of Objects: adding '".\obj\analog_to_digit_conv.o"'
+### List of Objects: adding '".\obj\digit_out.o"'
+### List of Objects: adding '".\obj\encoder_read.o"'
+### List of Objects: adding '".\obj\exti.o"'
+### List of Objects: adding '".\obj\iap.o"'
+### List of Objects: adding '".\obj\pwm_write.o"'
+### List of Objects: adding '".\obj\usb.o"'
+### List of Objects: adding '".\obj\data_provider.o"'
+### List of Objects: adding '".\obj\peripheral_conf.o"'
+### List of Objects: adding '".\obj\peripherals.o"'
+### List of Objects: adding '".\tcpnet_config\TCP_CM3.lib"'
+### List of Objects: adding '".\obj\net_config.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\shinterface.o" ".\obj\emac_lpc17xx.o" ".\obj\spi_lpc17xx.o" ".\obj\startup_lpc17xx.o" ".\obj\system_lpc17xx.o" ".\obj\core_cm3.o" ".\obj\lpc17xx_adc.o" ".\obj\lpc17xx_clkpwr.o" ".\obj\lpc17xx_exti.o" ".\obj\lpc17xx_gpio.o" ".\obj\lpc17xx_i2c.o" ".\obj\lpc17xx_libcfg_default.o" ".\obj\lpc17xx_nvic.o" ".\obj\lpc17xx_pinsel.o" ".\obj\lpc17xx_pwm.o" ".\obj\lpc17xx_spi.o" ".\obj\lpc17xx_systick.o" ".\obj\lpc17xx_timer.o" ".\obj\lpc17xx_uart.o" ".\obj\adc-landtiger.o" ".\obj\analog_to_digit_conv.o" ".\obj\digit_out.o" ".\obj\encoder_read.o" ".\obj\exti.o" ".\obj\iap.o" ".\obj\pwm_write.o" ".\obj\usb.o" ".\obj\data_provider.o" ".\obj\peripheral_conf.o" ".\obj\peripherals.o" C:\Users\Payman\Desktop\SHInterface\tcpnet_config\TCP_CM3.lib ".\obj\net_config.o" --library_type=microlib --strict --scatter ".\obj\SHInterface.sct" 
+--show_parent_lib --show_full_path --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lst\SHInterface.map" -o ".\obj\SHInterface.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\SHInterface.axf'
+### ADS-LD Command File: '.\obj\SHInterface.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\SHInterface.lnp', Handle=0x000004CC
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\SHInterface.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

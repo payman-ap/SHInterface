@@ -1,0 +1,14 @@
+This Program is an implementation to make a Hardware-Software Interface in order to facilitate the simulation of external hardwares with MATLAB Simulink.
+
+The peripherals which were considered are as follows:
+
+1 - Analog to Digital Converters
+2 - Digital Inputs
+3 - Digital Outputs
+4 - Encoder Read
+5 - PWM DC Motor Drivers
+6 - PWM Write
+7 - Ethernet TCP/IP Connection
+8 - USB Interface
+
+

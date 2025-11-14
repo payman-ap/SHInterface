@@ -1,0 +1,74 @@
+*** Creating Trace Output File 'SHInterface.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"shinterface.o"'
+### List of Objects: adding '"emac_lpc17xx.o"'
+### List of Objects: adding '"spi_lpc17xx.o"'
+### List of Objects: adding '"startup_lpc17xx.o"'
+### List of Objects: adding '"system_lpc17xx.o"'
+### List of Objects: adding '"startup_lpc17xx.o"'
+### List of Objects: adding '"core_cm3.o"'
+### List of Objects: adding '"lpc17xx_adc.o"'
+### List of Objects: adding '"lpc17xx_clkpwr.o"'
+### List of Objects: adding '"lpc17xx_exti.o"'
+### List of Objects: adding '"lpc17xx_gpio.o"'
+### List of Objects: adding '"lpc17xx_i2c.o"'
+### List of Objects: adding '"lpc17xx_libcfg_default.o"'
+### List of Objects: adding '"lpc17xx_nvic.o"'
+### List of Objects: adding '"lpc17xx_pinsel.o"'
+### List of Objects: adding '"lpc17xx_pwm.o"'
+### List of Objects: adding '"lpc17xx_spi.o"'
+### List of Objects: adding '"lpc17xx_systick.o"'
+### List of Objects: adding '"lpc17xx_timer.o"'
+### List of Objects: adding '"lpc17xx_uart.o"'
+### List of Objects: adding '"debug.o"'
+### List of Objects: adding '"dir.o"'
+### List of Objects: adding '"disc.o"'
+### List of Objects: adding '"efs.o"'
+### List of Objects: adding '"extract.o"'
+### List of Objects: adding '"fat.o"'
+### List of Objects: adding '"file.o"'
+### List of Objects: adding '"fs.o"'
+### List of Objects: adding '"if_lpc17xx.o"'
+### List of Objects: adding '"ioman.o"'
+### List of Objects: adding '"lpc17xx_sd.o"'
+### List of Objects: adding '"ls.o"'
+### List of Objects: adding '"mkfs.o"'
+### List of Objects: adding '"partition.o"'
+### List of Objects: adding '"plibc.o"'
+### List of Objects: adding '"sd_card.o"'
+### List of Objects: adding '"time.o"'
+### List of Objects: adding '"ui.o"'
+### List of Objects: adding '"adc-landtiger.o"'
+### List of Objects: adding '"adc.o"'
+### List of Objects: adding '"dio.o"'
+### List of Objects: adding '"exti.o"'
+### List of Objects: adding '"iap.o"'
+### List of Objects: adding '"pwm.o"'
+### List of Objects: adding '"qencoder.o"'
+### List of Objects: adding '"rs485.o"'
+### List of Objects: adding '"serial.o"'
+### List of Objects: adding '"spi.o"'
+### List of Objects: adding '"usb.o"'
+### List of Objects: adding '"client_parser.o"'
+### List of Objects: adding '"config_parser.o"'
+### List of Objects: adding '"configurator.o"'
+### List of Objects: adding '"net_config.o"'
+### List of Objects: adding '"net_debug.o"'
+### List of Objects: adding '".\tcpnet_config\TCP_CM3.lib"'
+### List of Objects: adding '".\tcpnet_config\TCPD_CM3.lib"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "shinterface.o" "emac_lpc17xx.o" "spi_lpc17xx.o" "startup_lpc17xx.o" "system_lpc17xx.o" "startup_lpc17xx.o" "core_cm3.o" "lpc17xx_adc.o" "lpc17xx_clkpwr.o" "lpc17xx_exti.o" "lpc17xx_gpio.o" "lpc17xx_i2c.o" "lpc17xx_libcfg_default.o" "lpc17xx_nvic.o" "lpc17xx_pinsel.o" "lpc17xx_pwm.o" "lpc17xx_spi.o" "lpc17xx_systick.o" "lpc17xx_timer.o" "lpc17xx_uart.o" "debug.o" "dir.o" "disc.o" "efs.o" "extract.o" "fat.o" "file.o" "fs.o" "if_lpc17xx.o" "ioman.o" "lpc17xx_sd.o" "ls.o" "mkfs.o" "partition.o" "plibc.o" "sd_card.o" "time.o" "ui.o" "adc-landtiger.o" "adc.o" "dio.o" "exti.o" "iap.o" "pwm.o" "qencoder.o" "rs485.o" "serial.o" "spi.o" "usb.o" "client_parser.o" "config_parser.o" "configurator.o" "net_config.o" "net_debug.o" C:\Users\Payman\Desktop\SHInterface\tcpnet_config\TCP_CM3.lib C:\Users\Payman\Desktop\SHInterface\tcpnet_config\TCPD_CM3.lib --library_type=microlib --strict --scatter "SHInterface.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lst\SHInterface.map" -o "SHInterface.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'SHInterface.axf'
+### ADS-LD Command File: 'SHInterface.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'SHInterface.lnp', Handle=0x00000684
+### Writing '.lnp' file
+### ADS-LD Command file 'SHInterface.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 8 errors
+### Updating obj list
+### LDADS_file() completed.

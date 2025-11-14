@@ -1,0 +1,48 @@
+# Keil uVision / MDK-ARM build files
+*.axf
+*.o
+*.d
+*.crf
+*.elf
+*.map
+*.lst
+*.lnp
+*.dep
+*.iex
+*.htm
+*.html
+*.scr
+*.sct
+*.scvd
+
+# Keil project backup and intermediate files
+*.bak
+*.uvgui.*
+*.uvgui
+*.uvoptx
+*.build_log.htm
+*.uvprojx.bak
+
+# Compiler / assembler generated files
+*.rtebuild
+*.rteconfig
+RTE/
+
+# Output directories
+Objects/
+Listings/
+DebugConfig/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Common IDE/editor files
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# If using CMSIS Pack installer cache
+PACK/
